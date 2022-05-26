@@ -1,0 +1,60 @@
+/* Install Fonts */
+
+/* @font-face {
+  font-family: 'Butler Stencil';
+  src: url('./Assets/Fonts/ButlerStencil-Medium.woff2') format('woff2'),
+      url('./Assets/Fonts/ButlerStencil-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Butler Stencil';
+  src: url('./Assets/Fonts/ButlerStencil.woff2') format('woff2'),
+      url('./Assets/Fonts/ButlerStencil.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Butler Stencil';
+  src: url('./Assets/Fonts/ButlerStencil-ExtraBold.woff2') format('woff2'),
+      url('./Assets/Fonts/ButlerStencil-ExtraBold.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Butler Stencil';
+  src: url('./Assets/Fonts/ButlerStencil-Black.woff2') format('woff2'),
+      url('./Assets/Fonts/ButlerStencil-Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Butler Stencil';
+  src: url('./Assets/Fonts/ButlerStencil-UltraLight.woff2') format('woff2'),
+      url('./Assets/Fonts/ButlerStencil-UltraLight.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Butler Stencil';
+  src: url('./Assets/Fonts/ButlerStencil-Bold.woff2') format('woff2'),
+      url('./Assets/Fonts/ButlerStencil-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Butler Stencil';
+  src: url('./Assets/Fonts/ButlerStencil-Light.woff2') format('woff2'),
+      url('./Assets/Fonts/ButlerStencil-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+} */
+
+@import url('https://fonts.cdnfonts.com/css/butler');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');

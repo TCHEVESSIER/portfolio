@@ -1,0 +1,46 @@
+.view
+    display: block
+    min-height: 100vh
+    &--container
+        position: relative
+        min-height: 100vh
+        max-width: 1140px
+        margin: 0 auto
+
+    &--row
+        min-height: 100vh
+        display: flex
+        justify-content: center
+        flex-direction: column
+        align-items: center
+
+        h1
+            display: block
+            width: fit-content
+            height: fit-content
+            overflow-y: hidden
+            position: relative
+            font-size: 96px
+            margin-bottom: 25px
+            color: #fff
+
+        .color--red 
+            color: #F27B68
+
+        p
+            color: #fff
+            font-family: 'Lato'
+            font-size: 18px
+
+        a
+            width: 450px
+            display: block
+            margin:
+                top: 125px
+
+            svg
+                width: 100%
+
+@media screen and (max-width: 768px) 
+    h1
+        font-size: 7.5vw !important

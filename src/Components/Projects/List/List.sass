@@ -1,0 +1,94 @@
+.list
+    display: block
+    position: relative
+    width: 100%
+    height: 100%
+
+    &--container
+        width: 100%
+        max-width: 1140px
+        margin: 0 auto
+
+    &--grid
+        width: 100%
+        display: grid
+        grid-template-columns: repeat(2, 1fr)
+        gap: 25px
+        justify-content: center
+
+    &--item
+        position: relative
+        height: auto
+
+        a
+            display: block
+            width: 100%
+            height: 100%
+            margin: 0
+            padding: 0
+            position: absolute
+            top: 0
+            display: flex
+            flex-direction: column
+            justify-content: center
+
+        &::before
+            content: ''
+            float: left
+            padding-top: 100%
+
+        .list--number
+            z-index: 1
+            position: relative
+
+            h2
+                margin: 50px auto !important
+
+        .list--informations
+            width: 100%
+            z-index: 1
+            position: relative
+
+            h2
+                display: block
+                text-align: center
+                font-size: 3.4vw !important
+                margin: 0 auto
+        
+        .list--bg
+            position: absolute
+            left: 0
+            top: 0
+            width: 100%
+            height: 100%
+            z-index: 0
+            filter: brightness(50%)
+
+            img
+                width: 100%
+                height: 100%
+                object-fit: cover
+
+@media screen and (max-width: 575px) 
+    .list
+        &--container
+            margin: 0 auto
+
+        &--grid
+            grid-template-columns: repeat(1, 1fr)
+
+        &--item
+            position: relative
+            height: auto
+
+            .list--number
+                z-index: 1
+                position: relative
+
+                h2
+                    font-size: 15vw !important
+
+            .list--informations
+                width: 100%
+                h2
+                    font-size: 8vw !important

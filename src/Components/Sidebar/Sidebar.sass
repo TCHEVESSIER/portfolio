@@ -1,0 +1,39 @@
+.sidebar--fixed
+    position: fixed
+    top: 0
+    left: 0
+    width: auto
+    max-height: 100vh
+    height: 100vh
+    z-index: 999
+
+    .sidebar--container
+        padding: 20px
+        height: 100%
+        display: flex
+        flex-direction: column
+        justify-content: space-between
+
+        .btn
+            width: 100%
+            height: auto
+            padding: 10px
+            background-color: #F27B68
+            box-shadow: -1px 1px 25px 5px rgb(242, 123, 104, 0.45)
+            border-radius: 5px
+
+@media screen and (max-width: 1024px) 
+    .sidebar--fixed
+        width: 100vw
+        height: 100px
+
+        .sidebar--container
+            width: 100%
+            flex-direction: row
+            justify-content: space-between
+            align-items: center
+
+            .btn
+                width: auto
+                height: auto
+    

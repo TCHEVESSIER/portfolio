@@ -1,0 +1,237 @@
+[
+    {
+        "id": "1",
+        "title": "Refonte d'une application mobile",
+        "slug": "refonte-d-une-application-mobile",
+        "date": "15/01/2022 au 15/03/2022",
+        "initialPosition": "center",
+        "data" : {
+            "imgThumbnail" : "Assets/Medias/Projects/Thumbnails/Mage_Project.webp",
+            "descriptionClient" : "Martin Environnemement est une entreprise familiale ayant pour objectif de proposer des services de collecte et de gestion de déchets qu’ils soient dangereux ou non. ",
+            "contextProject" : {
+                "title" : "Contexte du projet",
+                "text" : "<p>Pour les employés chargés de réaliser les collectes, Martin Environnement avait contacté une boîte de développement géré par l’associé de l’agence où j’ai effectué mon alternance en 2021-2022, pour réaliser une application type logiciel, qui permet de faire un listing de tournées à faire, attribué par un administrateur. Cette application s’appelle Mage. <br><br>A l’occasion d’une mise à jour, l’entreprise souhaitait changer l’identité visuelle de Mage et changer le visuel de l’application. L’enjeu principal était de rendre l’application plus compréhensible pour les employés. Enfin, l’enjeu secondaire était sur le temps, il fallait que les maquettes soient faites rapidement, pour que celle-ci soit rapidement développer ensuite et utilisable par les employés. J’ai donc disposé d'une seule semaine pour réaliser cette refonte.</p>"
+            },
+            "goalProject" : {
+                "title" : "Mes objectifs",
+                "text" : "<p>Ce projet était le premier projet où je faisais de l’UI design au sein de l’agence où je travaillais. L’objectif pour moi était de prouver à ma tutrice mes vrais compétences en design, afin qu’elle puisse me faire confiance pour de futures projets. Enfin je voulais aussi prouver que je pouvais notamment faire de l’animation/motion design</p>"
+            },
+            "whatIDid" : {
+                "title" : "Ce que j'ai réalisé",
+                "text" : "<p>Durant cette semaine, j’ai divisé mon travail en 3 phases : recherches d’inspirations, création du design system, et design de l’application. Il était important pour moi de créer un design system (<a href='https://www.usabilis.com/design-system/'>article sur le design system <img src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 319.43 319.46'%3E%3Cdefs%3E%3Cstyle%3E.cls-1%7Bfill:%23fff%3B%7D%3C/style%3E%3C/defs%3E%3Cg id='Calque_2' data-name='Calque 2'%3E%3Cg id='Calque_1-2' data-name='Calque 1'%3E%3Cpath class='cls-1' d='M319.43 301.79c0 6.82-2.11 12.46-8.3 15.53a23.42 23.42 0 0 1-10.07 2q-75.8.18-151.59.08-65.86 0-131.74 0c-5.71 0-11-1.24-14.09-6.12A22.12 22.12 0 0 1 .23 302.62c-.4-13.34-.16-26.7-.16-40.06q0-122 0-244.08c0-5.33.86-10.16 4.86-14C8.44 1.05 12.74 0 17.57 0Q67.91.11 118.25 0c14 0 27.95-.1 41.92.07a15.49 15.49 0 0 1 15.32 13.68c.89 8.2-3.71 15.39-11.45 17.45a28 28 0 0 1-7 .6q-60.07 0-120.15 0H32V287.27H287.57v-4.53q0-60.27 0-120.54a25.44 25.44 0 0 1 1-8.09c2.47-7.24 9.81-11.28 17.61-10.09a15.61 15.61 0 0 1 13 14.76c.2 4.86.09 9.74.09 14.6Q319.4 237.58 319.43 301.79Z'/%3E%3Cpath class='cls-1' d='M319.31 96.15a15.84 15.84 0 0 1-31.67.09c-.19-12.34-.07-24.7-.07-37 0-1.19 0-2.38 0-3.57l-1.65-1.23c-.72 1.3-1.19 2.86-2.2 3.87Q228.08 114 172.38 169.73c-4.2 4.21-8.88 6.79-15 5.92A15.91 15.91 0 0 1 147.12 150a38.33 38.33 0 0 1 3.33-3.54q55.31-55.3 110.63-110.59a22.65 22.65 0 0 1 3.72-2.51l-1.07-1.45c-13.2 0-26.4.05-39.59 0-7.52-.05-13.35-4.11-15.61-10.6A15.79 15.79 0 0 1 223.46.11c16.58-.19 33.17 0 49.76 0 9.85 0 19.71-.15 29.56 0 10.15.18 16.46 6.26 16.52 16.31Q319.54 56.3 319.31 96.15Z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E\"></img> </a>), car on a tendance à l’oublié, mais cela permet d’être deux fois plus efficace dans la création d’une application et cela facilite le travail du développeur lorsqu’il stylisera celle-ci. En appliquant cette organisation, j’ai pu être donc efficace et rapide dans la conception de cette application et j’ai pu réaliser un motion design présentant la nouvelle application et ses avantages, que le client a pu ensuite utiliser lors d’une réunion avec ses employés.</p>",
+                "Images" : [
+                    "Assets/Medias/Projects/Mage_Project.webp"
+                ],
+                "altImages" : "3 visuels du redesign de l'application Mage sur fond bleu"
+                
+            },
+            "softwareUsed" : ["figma"],
+            "linksProjects" : [
+                {
+                    "title" : "Voir les maquettes",
+                    "href" : "https://www.figma.com/file/QvtAH1kXjpsLOUGXoQ8eRY/MAGE---Application-Routier?node-id=0%3A1"
+                },
+                {
+                    "title" : "Voir le prototype",
+                    "href" : "https://www.figma.com/proto/QvtAH1kXjpsLOUGXoQ8eRY/MAGE-Application-Routier?node-id=0%3A1&viewport=4010%2C520%2C0.18&scaling=scale-down&starting-point-node-id=90%3A304"
+                }
+            ]
+        }
+    },
+    {
+        "id": "2",
+        "title": "Création d'un site internet pour le Pacte coopératif",
+        "slug": "creation-d-un-site-internet-pour-le-pacte-cooperatif",
+        "initialPosition": "right",
+        "data" : {
+            "imgThumbnail" : "Assets/Medias/Projects/Thumbnails/CreditAgricole_Project.gif",
+            "descriptionClient" : "Le Crédit agricole, anciennement surnommé la « Banque verte » du fait de son activité d'origine au service du monde agricole, est le plus grand réseau de banques coopératives et mutualistes au monde. En France, le Crédit agricole est composé des 39 caisses régionales de Crédit agricole. ",
+            "contextProject" : {
+                "title" : "Contexte du projet",
+                "text" : "<p>Tous les ans, les caisses régionales du Crédit Agricole se mobilisent et contribuent au financement et au développement de leur territoire. C’est que l’on appelle le Pacte coopératif. <br>Chaque caisse à donc pour obligation de réaliser deux supports pour présenter leurs actions : un document imprimé et un support digital. <br><br>Pour cela, elle réalise un appel d’offre pour mettre en compétition plusieurs agences de communication sur sa région, afin de savoir avec qui elle va travailler et quelle agence correspond à ses attentes. </p>"
+            },
+            "goalProject" : {
+                "title" : "Mes objectifs",
+                "text" : "<p>Mon objectif était d’amener de la nouveauté à l’agence via l’utilisation de nouvelles technologies autres que Wordpress. De plus, cela me permettait de continuer à progresser en développement front end.</p>"
+            },
+            "whatIDid" : {
+                "title" : "Ce que j'ai réalisé",
+                "text" : "<p>Pour cette mission, j’ai donc été en charge d’intégrer les maquettes graphiques faites au préalable par un collègue. Pour cette intégration cela, j’ai utilisé le framework Front-end : React.Js, que j’ai ensuite associé avec SCSS et la librairie d’animation GSAP. Une fois l’intégration visuelle terminée, il me restait à intégrer le contenu envoyé par le client.</p>",
+                "Images" : [
+                    "Assets/Medias/Projects/CreditAgricole_Project.webp"
+                ],
+                "altImages" : "3 visuels du redesign de l'application Mage sur fond bleu"
+                
+            },
+            "softwareUsed" : ["reactjs", "gsap", "sass"],
+            "linksProjects" : [
+                {
+                    "title" : "Voir le site web",
+                    "href" : "https://pactecooperatif.ca-centreloire.fr/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "3",
+        "title" : "Refonte de l'espace particulier des impôts",
+        "slug" : "refonte-de-l-espace-particulier-du-site-des-impots",
+        "initialPosition": "hidden-right",
+        "data" : {
+            "imgThumbnail" : "Assets/Medias/Projects/Thumbnails/Impots_Project.webp",
+            "contextProject" : {
+                "title" : "Contexte du projet",
+                "text" : "<p> Ce projet s’est effectué durant un cours lié à l’accessibilité numérique en guise d’évaluation de module, durant le mois de mars 2022. <br> Nous étions mis en situation réelle où le gouvernement était notre client et nous demandé de réaliser une refonte du site permettant aux Français de déclarer leurs impôts. </p>"
+            },
+            "goalProject" : {
+                "title" : "Mes objectifs",
+                "text" : "<p>L’objectif à travers cette mise en situation et ce projet était donc de réaliser une refonte de la page d’accueil de l’espace particulier du site des impots en prenant en compte certaines contraintes d’accessibilité numérique, qu’on a pu voir en cours ou en se renseignant sur internet, tout cela en un mois.</p>"
+            },
+            "whatIDid" : {
+                "title" : "Ce que j'ai réalisé",
+                "Images" : [
+                    "Assets/Medias/Projects/Impots_Project.webp"
+                ],
+                "altImages" : "3 visuels du redesign de l'application Mage sur fond bleu"
+                
+            },
+            "softwareUsed" : ["figma"],
+            "linksProjects" : [
+                {
+                    "title" : "Voir les maquettes",
+                    "href" : "https://www.figma.com/file/QvtAH1kXjpsLOUGXoQ8eRY/MAGE---Application-Routier?node-id=0%3A1"
+                },
+                {
+                    "title" : "Voir le prototype",
+                    "href" : "https://www.figma.com/proto/QvtAH1kXjpsLOUGXoQ8eRY/MAGE-Application-Routier?node-id=0%3A1&viewport=4010%2C520%2C0.18&scaling=scale-down&starting-point-node-id=90%3A304"
+                }
+            ]
+        }
+    },
+    {
+        "id": "4",
+        "title": "Création d'un site web pour Envie Réparation",
+        "slug": "creation-d-un-site-web-pour-envie-reparation",
+        "initialPosition": "hidden-right",
+        "data" : {
+            "imgThumbnail" : "Assets/Medias/Projects/Thumbnails/Envie_Project.webp",
+            "descriptionClient" : "Envie est une entreprise à l’echelle nationale. Elle collecte les équipements électriques et électroniques usagés auprès des distributeurs tels que (Darty, Auchan, Boulanger…) puis les rénove afin de les proposer à petits prix et à tout public.",
+            "contextProject" : {
+                "title" : "Contexte du projet",
+                "text" : "<p> C’est au mois de septembre 2021 qu’Envie Orléans contacte l’agence pour travailler sur un nouveau site web qui permettrait de proposer un autre service dédié à la réparation de téléphone.  </p>"
+            },
+            "goalProject" : {
+                "title" : "Mes objectifs",
+                "text" : "<p>Étant donné, le peu de temps au sein de l’agence, mon objectif était plus de comprendre comment l’agence travaille, pour ainsi m’y adapter. Même si je connaissais la technologie “Wordpress”, il fallait que je comprenne cette notion d’environnement (thème du site, gestion du projet, etc…). Deuxièmement, mon deuxième objectif était de résoudre une grosse problématique mentionné dans le cahier des charges qui concernait les envois de colis.</p>"
+            },
+            "whatIDid" : {
+                "title" : "Ce que j'ai réalisé",
+                "text" : "<p>Pour cette mission, je suis donc parti d’un thème payant pour pouvoir faire la maquette du site. Le travail principal sur cette maquette était plus sur la structuration du contenu et d’identifier les contraintes techniques lors de la phase de développement. Une fois, les maquettes validées par le client, je suis directement passé à l’intégration et à la modification du thème pour l’adapter à ma maquette.</p>",
+                "Images" : [
+                    "Assets/Medias/Projects/Envie_Project.webp"
+                ],
+                "altImages" : "3 visuels du redesign de l'application Mage sur fond bleu"
+                
+            },
+            "softwareUsed" : ["figma", "wordpress"],
+            "linksProjects" : [
+                {
+                    "title" : "Voir les maquettes",
+                    "href" : "https://www.figma.com/file/QvtAH1kXjpsLOUGXoQ8eRY/MAGE---Application-Routier?node-id=0%3A1"
+                },
+                {
+                    "title" : "Voir le site",
+                    "href" : "http://test.envie-orleans-loiret.com/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "5",
+        "title": "Simulation d'application de mon CV",
+        "slug": "simulation-d-application-de-mon-cv",
+        "initialPosition": "hidden-right",
+        "data" : {
+            "imgThumbnail" : "Assets/Medias/Projects/Thumbnails/cvApp_Project.webp",
+            "contextProject" : {
+                "title" : "Contexte du projet",
+                "text" : "<p> Dans le cadre d'une matière dédiée à l’intégration web, en guise d’évaluation, nous devions réaliser un CV numérique, d’un format et d’un design différent de notre CV print. J’avais 3 semaines pour réaliser cela et ensuite le présenter à l’oral.  </p>"
+            },
+            "goalProject" : {
+                "title" : "Mes objectifs",
+                "text" : "<p>Dans le cadre d'une matière dédiée à l’intégration web, en guise d’évaluation, nous devions réaliser un CV numérique, d’un format et d’un design différent de notre CV print.</p>"
+            },
+            "whatIDid" : {
+                "title" : "Ce que j'ai réalisé",
+                "text" : "<p>Pour ce projet, je voulais vraiment émuler une application mais sous un format web. J’ai donc séparé mon travail en deux parties. Il fallait que je priorise le design du téléphone (téléphone designé en full CSS) car je ne savais pas combien de temps ça allait me prendre et une fois cela fait, il me restait juste à intégrer mes maquettes avec les contenus. En faisant cette intégration, j’ai donc pu mixer “intégration” et animation de contenu avec GSAP.</p>",
+                "Images" : [
+                    "Assets/Medias/Projects/cvApp_Project.webp"
+                ],
+                "altImages" : "3 visuels du redesign de l'application Mage sur fond bleu"
+                
+            },
+            "softwareUsed" : ["figma", "gsap", "reactjs"]
+        }
+    },
+    {
+        "id": "6",
+        "title": "Court métrage - The Last Hope ",
+        "slug": "court-metrage-the-last-hope",
+        "initialPosition": "hidden-left",
+        "data" : {
+            "imgThumbnail" : "Assets/Medias/Projects/Thumbnails/video_Project.webp",
+            "contextProject" : {
+                "title" : "Contexte du projet",
+                "text" : "<p> Durant le mois de mars 2022, pour un module de projet vidéo, nous devions (par équipe de 4), réaliser un petit court-métrage résumant un film (de l’écriture du scénario au montage final), tout cela en 1 mois. <br><br> A la fin, une présentation sous forme de mini “festival de Cannes” était organisé pour élire les meilleurs courts métrages en fonction de certains prix.  </p>"
+            },
+            "goalProject" : {
+                "title" : "Mes objectifs",
+                "text" : "<p>L’objectif sur ce projet était d’apprendre comment fonctionne la 3D et apprendre aussi comment bien gérer un tournage, que ce soit des scènes ou des acteurs.</p>"
+            },
+            "whatIDid" : {
+                "title" : "Ce que j'ai réalisé",
+                "text" : "<p>Ce travail s’est étalé en différents petits projets. Il était donc important que j’instaure une gestion de projets au départ avec mon équipe. Pour pouvoir créer ce rendu, nous avons brainstormé sur les idées à reprendre du film en guise de référence, créer un moodboard lié à l’ambiance du film, et ensuite j’ai travaillait sur le scénario, sur le tournage des scènes et sur la montagne.</p>",
+                "Video" : [
+                    "https://drive.google.com/file/d/1wOetZIk8kiQGwFmnLCmiVJztPeLm52FK/view?usp=sharing"
+                ],
+                "altImages" : "3 visuels du redesign de l'application Mage sur fond bleu"
+                
+            },
+            "softwareUsed" : ["premierePro"]
+        }
+    },
+    {
+        "id": "7",
+        "title": "Création d'une identité visuelle",
+        "slug": "creation-d-une-identite-visuelle",
+        "initialPosition": "left",
+        "data" : {
+            "imgThumbnail" : "Assets/Medias/Projects/Thumbnails/adrienLogo_Project.webp",
+            "descriptionClient" : "Adrien Le Floch est un jeune coureur automobile, qui a commencé par courir en championnat de karting et qui aujourd’hui coure dans le championnat Alpine Elf Europa Cup à bord d’une Alpine aux 300 chevaux dans le moteur.",
+            "contextProject" : {
+                "title" : "Contexte du projet",
+                "text" : "<p> A l’été 2020, un ami à moi m’a contacté car un de ses amis avait besoin d’une identité visuelle et d’appliquer cette identité visuelle sur son nouveau dossier de sponsor. J’ai directement contacté cette personne car j’étais enjoué par son projet et son ambition de devenir pilote de F4. <br> Après un devis, on a donc commencé à travailler sur cette nouvelle identité visuelle et commencé à réfléchir sur son dossier de sponsor  </p>"
+            },
+            "goalProject" : {
+                "title" : "Mes objectifs",
+                "text" : "<p>Adrien est la première personne avec qui j’ai pu travailler en tant qu’indépendant, l’objectif était donc pouvoir lui montrer qu’il pouvait me faire confiance, mais aussi de voir comment je me débrouiller sur ma méthode de travail. Ce projet a été déclencheur de mon envie d’être Freelance.</p>"
+            },
+            "whatIDid" : {
+                "title" : "Ce que j'ai réalisé",
+                "text" : "<p>Le gros travail a été sur la création du logotype. En effet, étant donné que c’était la première fois que je travaillais avec un “client”, je ne savais pas comment m’y prendre. J’ai donc fait plusieurs propositions de logo. J’ai fait en sorte que les designs de logo soient en rapport avec le milieu du sport et pour certains en lien avec les sports automobiles. Une fois les couleurs et le logo validé, le travail de la charte graphique furent facilités puisque ce n’était que de l’application de ce que j’avais pu apprendre en cours.</p>",
+                "Images" : [
+                    "Assets/Medias/Projects/adrienLeFloch_Project.webp"
+                ],
+                "altImages" : "3 visuels du redesign de l'application Mage sur fond bleu"
+                
+            },
+            "softwareUsed" : ["illustrator", "indesign"],
+            "linksProjects" : [
+                {
+                    "title" : "Télécharger la charte graphique",
+                    "href" : "https://drive.google.com/file/d/1-_MQarsg1-r5VfN0Y6zZjN4ZTjJAmIp2/view?usp=sharing"
+                }
+            ]
+        }
+    }
+]
