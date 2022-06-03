@@ -15,7 +15,7 @@ class Sidebar extends Component {
                 <div className="sidebar--fixed sidebar--left">
                     <div className="sidebar--container">
                         <div className="btn btn--translate">EN</div>
-                        <div className="btn btn--cv"><a href={require('../../Assets/Medias/CV.pdf')} target="blank"> CVE </a></div>
+                        <div className="btn btn--cv"><a href={require('../../Assets/Medias/CV.pdf')} target="blank"> CV </a></div>
                     </div>
                 </div>
             </>
